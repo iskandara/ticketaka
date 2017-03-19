@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712418218382",
+    "firebase_url": "https://ticketaka-5d70f.firebaseio.com",
+    "project_id": "ticketaka-5d70f",
+    "storage_bucket": "ticketaka-5d70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712418218382:android:9e92822735e29efe",
+        "android_client_info": {
+          "package_name": "com.example.jagur.ticketakaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712418218382-e8rfcdvvn51urmokttdt22isque02l3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jagur.ticketakaapp",
+            "certificate_hash": "3fdcf2fe53a3bb9d2667532014bb75789ffa658c"
+          }
+        },
+        {
+          "client_id": "712418218382-17entcho4luq25bglf3h9ppjuto7cbhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZouV8NTG_LYVLha1iHEuJPqcYYonOxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712418218382-17entcho4luq25bglf3h9ppjuto7cbhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
